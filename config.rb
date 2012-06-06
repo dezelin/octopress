@@ -2,10 +2,10 @@
 project_type = :stand_alone
 
 # Publishing paths
-http_path = "/"
-http_images_path = "/images"
-http_fonts_path = "/fonts"
-css_dir = "public/stylesheets"
+http_path = "/dezelin/"
+http_images_path = "/dezelin/images"
+http_fonts_path = "/dezelin/fonts"
+css_dir = "public/dezelin/stylesheets"
 
 # Local development paths
 sass_dir = "sass"
